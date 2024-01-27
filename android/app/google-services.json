@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448392600157",
+    "project_id": "testing-cli-a28a7",
+    "storage_bucket": "testing-cli-a28a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448392600157:android:cad92408459c9875dccbb4",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAraXSP-5VTrVWJdHNXg9DkLdLUjTl-OI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

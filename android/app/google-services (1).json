@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530007642577",
+    "project_id": "super-hostel-514f5",
+    "storage_bucket": "super-hostel-514f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530007642577:android:baf6bfc119f778bae2d0f0",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJRxi12Q6fnvnqSlH2RS4v4kKC-gBSBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
